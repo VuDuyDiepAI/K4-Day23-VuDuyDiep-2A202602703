@@ -1,0 +1,56 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "deepseek-flash",
+  "elapsed_s": 2391.1,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "write_todos": 2,
+    "ls": 3,
+    "read_file": 18,
+    "task": 6,
+    "write_file": 2,
+    "execute": 6,
+    "edit_file": 8,
+    "grep": 3
+  },
+  "tokens": {
+    "input": 2428650,
+    "output": 54040
+  },
+  "n_sources": 71,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ],
+  "repairs": [
+    {
+      "method": "deterministic correction inside sandbox, then finalizer and validator",
+      "sandbox_id": "8f34344b-95ba-4e85-b5ea-bf093abda73d",
+      "elapsed_s": 11.4,
+      "changes": [
+        "Clarified MATH test-subset scope for best-of-1860 results",
+        "Removed 71 duplicate bibliography rows from body"
+      ],
+      "llm_calls": 0,
+      "input_report_sha256": "64311c26c4e5e81d6a995a98687d9bcba607df52633b56e783971cdb1f351927",
+      "input_sources_sha256": "8e7950c698c37a993f765482e0c4e00f356e624b161f981ecf32fffb388546a2",
+      "output_report_sha256": "49c4a3126ba6db671fae42a6603c417a091d29c8eb72d831d77134fc4078c403",
+      "output_sources_sha256": "8e7950c698c37a993f765482e0c4e00f356e624b161f981ecf32fffb388546a2"
+    },
+    {
+      "method": "deterministic correction inside sandbox, then finalizer and validator",
+      "sandbox_id": "b199a884-57e3-48b6-96aa-99c7d10940b8",
+      "elapsed_s": 11.4,
+      "changes": [
+        "Standardized heading to ## Background"
+      ],
+      "llm_calls": 0,
+      "input_report_sha256": "49c4a3126ba6db671fae42a6603c417a091d29c8eb72d831d77134fc4078c403",
+      "input_sources_sha256": "8e7950c698c37a993f765482e0c4e00f356e624b161f981ecf32fffb388546a2",
+      "output_report_sha256": "a5c40dcf5f85c36a441bcf4e2c97240446f844b81c3f103d6e0257175c02503e",
+      "output_sources_sha256": "8e7950c698c37a993f765482e0c4e00f356e624b161f981ecf32fffb388546a2"
+    }
+  ]
+}

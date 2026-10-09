@@ -1,0 +1,42 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "deepseek-flash",
+  "elapsed_s": 561.5,
+  "subagent_calls": 7,
+  "tool_calls": {
+    "write_todos": 5,
+    "ls": 4,
+    "read_file": 16,
+    "task": 7,
+    "execute": 8,
+    "write_file": 2,
+    "edit_file": 5,
+    "grep": 5
+  },
+  "tokens": {
+    "input": 1762508,
+    "output": 43648
+  },
+  "n_sources": 65,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ],
+  "repairs": [
+    {
+      "method": "deterministic correction inside sandbox, then finalizer and validator",
+      "sandbox_id": "0f482551-dc70-43f9-9eb2-b455ad74ce3f",
+      "elapsed_s": 11.5,
+      "changes": [
+        "Standardized heading to ## Background"
+      ],
+      "llm_calls": 0,
+      "input_report_sha256": "aa1db6ed6168301188105d6c053a0d6526c46d965fcceff56b98d87841d859d0",
+      "input_sources_sha256": "86369fb47b069fdc8b17d812499fb17c7367f1ce6ef9df3cd6111d2e963c8866",
+      "output_report_sha256": "3c6d18912e82e2c592d2f5d0938a9479730022f15367284b11416d5f238a2690",
+      "output_sources_sha256": "86369fb47b069fdc8b17d812499fb17c7367f1ce6ef9df3cd6111d2e963c8866"
+    }
+  ]
+}

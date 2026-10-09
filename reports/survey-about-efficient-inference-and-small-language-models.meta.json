@@ -1,0 +1,42 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "deepseek-flash",
+  "elapsed_s": 924.9,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "write_todos": 4,
+    "ls": 2,
+    "read_file": 14,
+    "task": 6,
+    "execute": 7,
+    "write_file": 3,
+    "edit_file": 7,
+    "grep": 1
+  },
+  "tokens": {
+    "input": 2269998,
+    "output": 53197
+  },
+  "n_sources": 88,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ],
+  "repairs": [
+    {
+      "method": "deterministic correction inside sandbox, then finalizer and validator",
+      "sandbox_id": "56649927-aaf1-4e57-b144-ffa747c3352c",
+      "elapsed_s": 11.3,
+      "changes": [
+        "Restored DistilBERT's reported 60% faster metric"
+      ],
+      "llm_calls": 0,
+      "input_report_sha256": "13aab29cbc6e0fd408031639d63e9e6aa58f72c30a9653eb7bc228d12d9c1092",
+      "input_sources_sha256": "8ef48534a1fc8837c875a98d7dc6f9de78cac6b34a5003dfd7903cf21374cf89",
+      "output_report_sha256": "6468bf4075e0f8199abaf9ddce8f44e6b58eba684e531bddac693e88fafaeeaf",
+      "output_sources_sha256": "8ef48534a1fc8837c875a98d7dc6f9de78cac6b34a5003dfd7903cf21374cf89"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "topic": "survey about world model",
+  "model": "deepseek-flash",
+  "elapsed_s": 962.5,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 2,
+    "ls": 4,
+    "read_file": 15,
+    "task": 5,
+    "write_file": 2,
+    "execute": 7,
+    "edit_file": 9,
+    "grep": 5
+  },
+  "tokens": {
+    "input": 1844596,
+    "output": 36247
+  },
+  "n_sources": 64,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

@@ -1,0 +1,706 @@
+[
+  {
+    "n": 1,
+    "id": "2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention (vLLM)",
+    "date": "2023-09-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2403.02310",
+    "url": "https://arxiv.org/abs/2403.02310",
+    "title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+    "date": "2024-03-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2503.24000",
+    "url": "https://arxiv.org/abs/2503.24000",
+    "title": "Rethinking Key-Value Cache Compression Techniques for Large Language Model Serving",
+    "date": "2025-03-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2401.10774",
+    "url": "https://arxiv.org/abs/2401.10774",
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+    "date": "2024-01-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2504.04823",
+    "url": "https://huggingface.co/papers/2504.04823",
+    "title": "Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models",
+    "date": "2025-04-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2505.11574",
+    "url": "https://arxiv.org/abs/2505.11574",
+    "title": "Quantization Meets Reasoning: Exploring and Mitigating Degradation of Low-Bit LLMs in Mathematical Reasoning",
+    "date": "2025-05-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2606.25519",
+    "url": "https://arxiv.org/abs/2606.25519",
+    "title": "Quantization Inflates Reasoning: Token Inflation as a Hidden Cost of Low-Bit Reasoning Models",
+    "date": "2026-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2306.11644",
+    "url": "https://arxiv.org/abs/2306.11644",
+    "title": "Textbooks Are All You Need (phi-1)",
+    "date": "2023-06-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2408.00118",
+    "url": "https://huggingface.co/papers/2408.00118",
+    "title": "Gemma 2: Improving Open Language Models at a Practical Size",
+    "date": "2024-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "When Smol Goes Big — SmolLM2",
+    "date": "2025-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2502.11569",
+    "url": "https://arxiv.org/abs/2502.11569",
+    "title": "Towards Reasoning Ability of Small Language Models (ThinkSLM)",
+    "date": "unknown",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2502.08606",
+    "url": "https://arxiv.org/abs/2502.08606",
+    "title": "Distillation Scaling Laws",
+    "date": "2025-02-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2510.00231",
+    "url": "https://arxiv.org/abs/2510.00231",
+    "title": "The Pitfalls of KV Cache Compression",
+    "date": "2025-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2608.28044",
+    "url": "https://arxiv.org/abs/2608.28044",
+    "title": "Characterization of Request and Token Energy Costs for LLM Inference Workloads on GPU Platforms",
+    "date": "2026-08-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2604.11512",
+    "url": "https://arxiv.org/abs/2604.11512",
+    "title": "EdgeCIM: A Hardware-Software Co-Design for CIM-Based Acceleration of Small Language Models",
+    "date": "2026-04-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2409.16694",
+    "url": "https://arxiv.org/abs/2409.16694",
+    "title": "A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2205.14135",
+    "url": "https://arxiv.org/abs/2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "date": "2022-05-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2303.18223",
+    "url": "https://arxiv.org/abs/2303.18223",
+    "title": "A Survey of Large Language Models",
+    "date": "2023-03-31",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2024-09-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2308.07633",
+    "url": "https://huggingface.co/papers/2308.07633",
+    "title": "A Survey on Model Compression for Large Language Models",
+    "date": "2023-08-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 22,
+    "id": "2103.13630",
+    "url": "https://arxiv.org/abs/2103.13630",
+    "title": "A Survey of Quantization Methods for Efficient Neural Network Inference",
+    "date": "2021-03-25",
+    "source": "web"
+  },
+  {
+    "n": 23,
+    "id": "2307.08691",
+    "url": "https://arxiv.org/abs/2307.08691",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+    "date": "2023-07-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "2401.09670",
+    "url": "https://arxiv.org/abs/2401.09670",
+    "title": "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving",
+    "date": "2024-01-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 25,
+    "id": "2211.17192",
+    "url": "https://arxiv.org/abs/2211.17192",
+    "title": "Fast Inference from Transformers via Speculative Decoding",
+    "date": "2022-11-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2401.15077",
+    "url": "https://arxiv.org/abs/2401.15077",
+    "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+    "date": "2024-01-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2208.07339",
+    "url": "https://arxiv.org/abs/2208.07339",
+    "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "2210.17323",
+    "url": "https://arxiv.org/abs/2210.17323",
+    "title": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+    "date": "2022-10-31",
+    "source": "web"
+  },
+  {
+    "n": 29,
+    "id": "2306.00978",
+    "url": "https://arxiv.org/abs/2306.00978",
+    "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2211.10438",
+    "url": "https://arxiv.org/abs/2211.10438",
+    "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+    "date": "2022-11-18",
+    "source": "web"
+  },
+  {
+    "n": 31,
+    "id": "2404.00456",
+    "url": "https://arxiv.org/abs/2404.00456",
+    "title": "QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 32,
+    "id": "2308.13137",
+    "url": "https://arxiv.org/abs/2308.13137",
+    "title": "OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 33,
+    "id": "2305.17888",
+    "url": "https://arxiv.org/abs/2305.17888",
+    "title": "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+    "date": "2023-05-29",
+    "source": "web"
+  },
+  {
+    "n": 34,
+    "id": "2305.14314",
+    "url": "https://arxiv.org/abs/2305.14314",
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "date": "2023-05-23",
+    "source": "web"
+  },
+  {
+    "n": 35,
+    "id": "2301.00774",
+    "url": "https://arxiv.org/abs/2301.00774",
+    "title": "SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot",
+    "date": "2023-01-02",
+    "source": "web"
+  },
+  {
+    "n": 36,
+    "id": "2306.11695",
+    "url": "https://arxiv.org/abs/2306.11695",
+    "title": "A Simple and Effective Pruning Approach for Large Language Models (Wanda)",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 37,
+    "id": "2302.04089",
+    "url": "https://huggingface.co/papers/2302.04089",
+    "title": "ZipLM: Hardware-Aware Structured Pruning of Language Models",
+    "date": "2023-02-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 38,
+    "id": "1910.01108",
+    "url": "https://arxiv.org/abs/1910.01108",
+    "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+    "date": "2019-10-02",
+    "source": "web"
+  },
+  {
+    "n": 39,
+    "id": "1909.10351",
+    "url": "https://arxiv.org/abs/1909.10351",
+    "title": "TinyBERT: Distilling BERT for Natural Language Understanding",
+    "date": "2019-09-24",
+    "source": "web"
+  },
+  {
+    "n": 40,
+    "id": "2004.02984",
+    "url": "https://arxiv.org/abs/2004.02984",
+    "title": "MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 41,
+    "id": "1908.09355",
+    "url": "https://huggingface.co/papers/1908.09355",
+    "title": "Patient Knowledge Distillation for BERT Model Compression",
+    "date": "2019-08-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "2306.08543",
+    "url": "https://arxiv.org/abs/2306.08543",
+    "title": "MiniLLM: Knowledge Distillation of Large Language Models",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 43,
+    "id": "2009.06732",
+    "url": "https://arxiv.org/abs/2009.06732",
+    "title": "Efficient Transformers: A Survey",
+    "date": "2020-09-14",
+    "source": "web"
+  },
+  {
+    "n": 44,
+    "id": "https://www.anyscale.com/blog/continuous-batching-llm-inference",
+    "url": "https://www.anyscale.com/blog/continuous-batching-llm-inference",
+    "title": "How continuous batching enables 23x throughput in LLM inference while reducing p50 latency",
+    "date": "2023-06-22",
+    "source": "web"
+  },
+  {
+    "n": 45,
+    "id": "2407.08608",
+    "url": "https://arxiv.org/abs/2407.08608",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision",
+    "date": "2024-07-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 46,
+    "id": "2312.07104",
+    "url": "https://arxiv.org/abs/2312.07104",
+    "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+    "date": "2023-12-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 47,
+    "id": "2311.04934",
+    "url": "https://arxiv.org/abs/2311.04934",
+    "title": "Prompt Cache: Modular Attention Reuse for Low-Latency Inference",
+    "date": "2023-11-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 48,
+    "id": "https://docs.vllm.ai/en/stable/design/prefix_caching/",
+    "url": "https://docs.vllm.ai/en/stable/design/prefix_caching/",
+    "title": "Automatic Prefix Caching (vLLM design documentation)",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 49,
+    "id": "2306.14048",
+    "url": "https://arxiv.org/abs/2306.14048",
+    "title": "H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
+    "date": "2023-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 50,
+    "id": "2309.17453",
+    "url": "https://arxiv.org/abs/2309.17453",
+    "title": "Efficient Streaming Language Models with Attention Sinks (StreamingLLM)",
+    "date": "2023-09-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 51,
+    "id": "2402.02750",
+    "url": "https://arxiv.org/abs/2402.02750",
+    "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 52,
+    "id": "2407.02490",
+    "url": "https://arxiv.org/abs/2407.02490",
+    "title": "MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention",
+    "date": "2024-07-02",
+    "source": "arxiv"
+  },
+  {
+    "n": 53,
+    "id": "2609.36322",
+    "url": "https://huggingface.co/papers/2609.36322",
+    "title": "Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 54,
+    "id": "2609.38169",
+    "url": "https://huggingface.co/papers/2609.38169",
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "date": "2026-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 55,
+    "id": "2412.14219",
+    "url": "https://huggingface.co/papers/2412.14219",
+    "title": "A Survey on Inference Optimization Techniques for Mixture of Experts Models",
+    "date": "2024-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 56,
+    "id": "2502.05370",
+    "url": "https://huggingface.co/papers/2502.05370",
+    "title": "fMoE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving",
+    "date": "2025-02-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 57,
+    "id": "2609.34117",
+    "url": "https://huggingface.co/papers/2609.34117",
+    "title": "SlimWise: Decoupling Expert Pruning Across Prefill and Decode for Efficient MoE Serving",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 58,
+    "id": "2609.39068",
+    "url": "https://huggingface.co/papers/2609.39068",
+    "title": "SparseEngine: Sparse-First Inference Engine",
+    "date": "2026-09-30",
+    "source": "hf-daily"
+  },
+  {
+    "n": 59,
+    "id": "2406.16858",
+    "url": "https://arxiv.org/abs/2406.16858",
+    "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees",
+    "date": "2024-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 60,
+    "id": "2402.02057",
+    "url": "https://arxiv.org/abs/2402.02057",
+    "title": "Break the Sequential Dependency of LLM Inference Using Lookahead Decoding",
+    "date": "unknown",
+    "source": "arxiv"
+  },
+  {
+    "n": 61,
+    "id": "2404.16710",
+    "url": "https://arxiv.org/abs/2404.16710",
+    "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+    "date": "2024-04-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 62,
+    "id": "2609.37725",
+    "url": "https://huggingface.co/papers/2609.37725",
+    "title": "Context Language Models",
+    "date": "2026-09-29",
+    "source": "hf-daily"
+  },
+  {
+    "n": 63,
+    "id": "2610.01892",
+    "url": "https://huggingface.co/papers/2610.01892",
+    "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+    "date": "2026-10-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 64,
+    "id": "2309.05463",
+    "url": "https://arxiv.org/abs/2309.05463",
+    "title": "Textbooks Are All You Need II (phi-1.5)",
+    "date": "2023-09-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 65,
+    "id": "2404.14219",
+    "url": "https://huggingface.co/papers/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 66,
+    "id": "2412.08905",
+    "url": "https://arxiv.org/abs/2412.08905",
+    "title": "Phi-4 Technical Report",
+    "date": "2024-12-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 67,
+    "id": "https://huggingface.co/microsoft/Phi-4-mini-instruct",
+    "url": "https://huggingface.co/microsoft/Phi-4-mini-instruct",
+    "title": "microsoft/Phi-4-mini-instruct (model card)",
+    "date": "2025-02-01",
+    "source": "web"
+  },
+  {
+    "n": 68,
+    "id": "https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md",
+    "url": "https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md",
+    "title": "Meta Llama 3.2 model card",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 69,
+    "id": "2412.15115",
+    "url": "https://arxiv.org/abs/2412.15115",
+    "title": "Qwen2.5 Technical Report",
+    "date": "2025-01-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 70,
+    "id": "2505.09388",
+    "url": "https://arxiv.org/abs/2505.09388",
+    "title": "Qwen3 Technical Report",
+    "date": "2025-05-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 71,
+    "id": "https://huggingface.co/blog/smollm",
+    "url": "https://huggingface.co/blog/smollm",
+    "title": "SmolLM — blazingly fast and remarkably powerful (blog)",
+    "date": "2024-07-16",
+    "source": "web"
+  },
+  {
+    "n": 72,
+    "id": "2401.02385",
+    "url": "https://arxiv.org/abs/2401.02385",
+    "title": "TinyLlama: An Open-Source Small Language Model",
+    "date": "2024-06-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 73,
+    "id": "2402.14905",
+    "url": "https://arxiv.org/abs/2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases",
+    "date": "2024-02-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 74,
+    "id": "2404.06395",
+    "url": "https://arxiv.org/abs/2404.06395",
+    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+    "date": "2024-06-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 75,
+    "id": "2407.21075",
+    "url": "https://arxiv.org/abs/2407.21075",
+    "title": "Apple Intelligence Foundation Language Models (on-device ~3B)",
+    "date": "2024-07-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 76,
+    "id": "2609.32722",
+    "url": "https://huggingface.co/papers/2609.32722",
+    "title": "Scaling Properties of Same-Family On-Policy Distillation",
+    "date": "2026-09-26",
+    "source": "hf-daily"
+  },
+  {
+    "n": 77,
+    "id": "2001.08361",
+    "url": "https://arxiv.org/abs/2001.08361",
+    "title": "Scaling Laws for Neural Language Models",
+    "date": "2020-01-23",
+    "source": "web"
+  },
+  {
+    "n": 78,
+    "id": "2203.15556",
+    "url": "https://arxiv.org/abs/2203.15556",
+    "title": "Training Compute-Optimal Large Language Models (Chinchilla)",
+    "date": "2022-03-29",
+    "source": "web"
+  },
+  {
+    "n": 79,
+    "id": "2401.00448",
+    "url": "https://arxiv.org/abs/2401.00448",
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+    "date": "2023-12-31",
+    "source": "web"
+  },
+  {
+    "n": 80,
+    "id": "2603.22339",
+    "url": "https://arxiv.org/abs/2603.22339",
+    "title": "Problems with Chinchilla Approach 2: Systematic Biases in IsoFLOP Parabola Fits",
+    "date": "2026-03-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 81,
+    "id": "2206.07682",
+    "url": "https://arxiv.org/abs/2206.07682",
+    "title": "Emergent Abilities of Large Language Models",
+    "date": "2022-10-26",
+    "source": "web"
+  },
+  {
+    "n": 82,
+    "id": "2304.15004",
+    "url": "https://arxiv.org/abs/2304.15004",
+    "title": "Are Emergent Abilities of Large Language Models a Mirage?",
+    "date": "2023-05-22",
+    "source": "web"
+  },
+  {
+    "n": 83,
+    "id": "1910.09700",
+    "url": "https://arxiv.org/abs/1910.09700",
+    "title": "Quantifying the Carbon Emissions of Machine Learning",
+    "date": "2019-10-21",
+    "source": "web"
+  },
+  {
+    "n": 84,
+    "id": "2309.14393",
+    "url": "https://arxiv.org/abs/2309.14393",
+    "title": "LLMCarbon: Modeling the End-to-End Carbon Footprint of Large Language Models",
+    "date": "2023-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 85,
+    "id": "2608.28667",
+    "url": "https://arxiv.org/abs/2608.28667",
+    "title": "GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon",
+    "date": "2026-08-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 86,
+    "id": "2609.11940",
+    "url": "https://arxiv.org/abs/2609.11940",
+    "title": "The Battery Price of Edge AI: A Study of the Environmental Impact of LLM Inference on Mobile Devices",
+    "date": "2026-07-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 87,
+    "id": "2610.07816",
+    "url": "https://arxiv.org/abs/2610.07816",
+    "title": "Do I Need the Cloud? Uncertainty-Aware Step-Level Handoff for Small Language Model Agents",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 88,
+    "id": "2609.40127",
+    "url": "https://huggingface.co/papers/2609.40127",
+    "title": "Learning Functional Subspaces for Neural Network Compression",
+    "date": "2026-09-30",
+    "source": "hf-daily"
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "n": 1,
+    "id": "2501.12948",
+    "url": "https://arxiv.org/abs/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "s41586-025-09422-z",
+    "url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning (Nature)",
+    "date": "2025-09-17",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2402.03300",
+    "url": "https://arxiv.org/abs/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-02-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2503.20783",
+    "url": "https://arxiv.org/abs/2503.20783",
+    "title": "Understanding R1-Zero-Like Training: A Critical Perspective",
+    "date": "2025-03-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2503.14476",
+    "url": "https://arxiv.org/abs/2503.14476",
+    "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale",
+    "date": "2025-03-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2507.18071",
+    "url": "https://arxiv.org/abs/2507.18071",
+    "title": "Group Sequence Policy Optimization (GSPO)",
+    "date": "2025-07-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2504.05118",
+    "url": "https://arxiv.org/abs/2504.05118",
+    "title": "VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks",
+    "date": "2025-04-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2511.04256",
+    "url": "https://arxiv.org/abs/2511.04256",
+    "title": "SSPO: Subsentence-level Policy Optimization",
+    "date": "2025-11-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2511.20347",
+    "url": "https://arxiv.org/abs/2511.20347",
+    "title": "Soft Adaptive Policy Optimization (SAPO)",
+    "date": "2025-11-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2510.23142",
+    "url": "https://arxiv.org/abs/2510.23142",
+    "title": "Rethinking GSPO: The Perplexity-Entropy Equivalence",
+    "date": "2025-10-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2609.35433",
+    "url": "https://huggingface.co/papers/2609.35433",
+    "title": "ReSPO: Reshaped Sequence Policy Optimization for Gradient Starvation in Off-Policy Learning",
+    "date": "2026-09-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 12,
+    "id": "2504.13837",
+    "url": "https://arxiv.org/abs/2504.13837",
+    "title": "Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?",
+    "date": "2025-04-18",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2510.08325",
+    "url": "https://arxiv.org/abs/2510.08325",
+    "title": "Beyond Pass@k: Breadth-Depth Metrics for Reasoning Boundaries",
+    "date": "2025-10-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2602.02555",
+    "url": "https://arxiv.org/abs/2602.02555",
+    "title": "Learning to Explore with Parameter-Space Noise (PSN-RLVR)",
+    "date": "2026-01-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2606.22317",
+    "url": "https://arxiv.org/abs/2606.22317",
+    "title": "Curriculum Reinforcement Learning Can Incentivize Reasoning Capacity in LLMs Beyond the Base Model",
+    "date": "2026-06-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2604.16259",
+    "url": "https://arxiv.org/abs/2604.16259",
+    "title": "Beyond Distribution Sharpening: The Importance of Task Rewards",
+    "date": "2026-04-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2504.07086",
+    "url": "https://arxiv.org/abs/2504.07086",
+    "title": "A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility",
+    "date": "2025-04-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2507.10532",
+    "url": "https://arxiv.org/abs/2507.10532",
+    "title": "Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination",
+    "date": "2025-07-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "openeurollm/open-perfectblend-decontaminated",
+    "url": "https://huggingface.co/datasets/openeurollm/open-perfectblend-decontaminated",
+    "title": "open-perfectblend-decontaminated (contamination audit)",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "iclr2026-bayes-at-n",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/f04edfc65463d020629673a4bc4c58e7-Paper-Conference.pdf",
+    "title": "Don't Pass@k: A Bayesian Framework for Large Language Model Evaluation",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "2312.09244",
+    "url": "https://arxiv.org/abs/2312.09244",
+    "title": "Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking",
+    "date": "2023-12-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 22,
+    "id": "2511.18397",
+    "url": "https://arxiv.org/abs/2511.18397",
+    "title": "Natural Emergent Misalignment from Reward Hacking in Production RL",
+    "date": "2025-11-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 23,
+    "id": "2604.13602",
+    "url": "https://arxiv.org/abs/2604.13602",
+    "title": "Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges",
+    "date": "2026-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 24,
+    "id": "anthropic-cot-faithfulness",
+    "url": "https://www.anthropic.com/research/reasoning-models-dont-say-think",
+    "title": "Reasoning models don't always say what they think",
+    "date": "2025-04-03",
+    "source": "web"
+  },
+  {
+    "n": 25,
+    "id": "2603.26410",
+    "url": "https://arxiv.org/abs/2603.26410",
+    "title": "Why Models Know But Don't Say: Chain-of-Thought Faithfulness Divergence Between Thinking Tokens and Answers",
+    "date": "2026-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 26,
+    "id": "2607.09786",
+    "url": "https://arxiv.org/abs/2607.09786",
+    "title": "Length Penalties Make Chain-of-Thought Less Monitorable",
+    "date": "2026-07-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 27,
+    "id": "2602.15515",
+    "url": "https://www.alphaxiv.org/abs/2602.15515",
+    "title": "The Obfuscation Atlas: Mapping Where Honesty Emerges in RLVR with Deception Probes",
+    "date": "2026-05-26",
+    "source": "web"
+  },
+  {
+    "n": 28,
+    "id": "2609.36254",
+    "url": "https://arxiv.org/abs/2609.36254",
+    "title": "Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models (SARA)",
+    "date": "2026-09-28",
+    "source": "web"
+  },
+  {
+    "n": 29,
+    "id": "1707.06347",
+    "url": "https://arxiv.org/abs/1707.06347",
+    "title": "Proximal Policy Optimization Algorithms",
+    "date": "2017-07-20",
+    "source": "web"
+  },
+  {
+    "n": 30,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback (InstructGPT)",
+    "date": "2022-03-04",
+    "source": "web"
+  },
+  {
+    "n": 31,
+    "id": "2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let's Verify Step by Step",
+    "date": "2023-05-31",
+    "source": "web"
+  },
+  {
+    "n": 32,
+    "id": "2312.08935",
+    "url": "https://arxiv.org/abs/2312.08935",
+    "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+    "date": "2023-12-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 33,
+    "id": "2603.01162",
+    "url": "https://arxiv.org/abs/2603.01162",
+    "title": "Demystifying Group Relative Policy Optimization: Its Policy Gradient is a U-Statistic",
+    "date": "2026-03-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 34,
+    "id": "2203.14465",
+    "url": "https://arxiv.org/abs/2203.14465",
+    "title": "STaR: Bootstrapping Reasoning With Reasoning",
+    "date": "2022-03-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 35,
+    "id": "2509.08827",
+    "url": "https://huggingface.co/papers/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-09-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 36,
+    "id": "2505.00551",
+    "url": "https://arxiv.org/abs/2505.00551",
+    "title": "100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models",
+    "date": "2025-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 37,
+    "id": "2503.24290",
+    "url": "https://arxiv.org/abs/2503.24290",
+    "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model",
+    "date": "2025-03-31",
+    "source": "web"
+  },
+  {
+    "n": 38,
+    "id": "2509.24981",
+    "url": "https://huggingface.co/papers/2509.24981",
+    "title": "Random Policy Valuation is Enough for LLM Reasoning with Verifiable Rewards (ROVER)",
+    "date": "2025-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 39,
+    "id": "2504.03380",
+    "url": "https://arxiv.org/abs/2504.03380",
+    "title": "Online Difficulty Filtering for Reasoning Oriented Reinforcement Learning",
+    "date": "2025-04-04",
+    "source": "arxiv"
+  },
+  {
+    "n": 40,
+    "id": "2506.02177",
+    "url": "https://huggingface.co/papers/2506.02177",
+    "title": "Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts (GRESO)",
+    "date": "2025-06-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 41,
+    "id": "2511.06307",
+    "url": "https://huggingface.co/papers/2511.06307",
+    "title": "DRIVE: Data Curation Best Practices for Reinforcement Learning with Verifiable Reward in Competitive Code Generation",
+    "date": "2025-11-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 42,
+    "id": "2509.25454",
+    "url": "https://huggingface.co/papers/2509.25454",
+    "title": "DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search",
+    "date": "2025-09-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 43,
+    "id": "2505.22617",
+    "url": "https://arxiv.org/abs/2505.22617",
+    "title": "The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models",
+    "date": "2025-05-28",
+    "source": "web"
+  },
+  {
+    "n": 44,
+    "id": "2508.08221",
+    "url": "https://huggingface.co/papers/2508.08221",
+    "title": "Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning",
+    "date": "2025-08-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 45,
+    "id": "2512.17008",
+    "url": "https://huggingface.co/papers/2512.17008",
+    "title": "Turn-PPO: Turn-Level Advantage Estimation with PPO for Improved Multi-Turn RL in Agentic LLMs",
+    "date": "2025-12-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 46,
+    "id": "2504.13958",
+    "url": "https://arxiv.org/abs/2504.13958",
+    "title": "ToolRL: Reward is All Tool Learning Needs",
+    "date": "2025-04-16",
+    "source": "arxiv"
+  },
+  {
+    "n": 47,
+    "id": "2504.11536",
+    "url": "https://arxiv.org/abs/2504.11536",
+    "title": "ReTool: Reinforcement Learning for Strategic Tool Use in LLMs",
+    "date": "2025-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 48,
+    "id": "2506.00103",
+    "url": "https://arxiv.org/abs/2506.00103",
+    "title": "Writing-Zero: Bridge the Gap Between Non-verifiable Tasks and Verifiable Rewards",
+    "date": "2025-05-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 49,
+    "id": "2505.22653",
+    "url": "https://huggingface.co/papers/2505.22653",
+    "title": "The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason",
+    "date": "2025-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 50,
+    "id": "2507.08794",
+    "url": "https://huggingface.co/papers/2507.08794",
+    "title": "One Token to Fool LLM-as-a-Judge",
+    "date": "2025-07-11",
+    "source": "hf-search"
+  },
+  {
+    "n": 51,
+    "id": "2505.19406",
+    "url": "https://arxiv.org/abs/2505.19406",
+    "title": "Unveiling the Compositional Ability Gap in Vision-Language Reasoning Model",
+    "date": "2025-05-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 52,
+    "id": "2509.21016",
+    "url": "https://arxiv.org/abs/2509.21016",
+    "title": "RL Grokking Recipe: How Does RL Unlock and Transfer New Algorithms in LLMs?",
+    "date": "2025-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 53,
+    "id": "2501.17161",
+    "url": "https://arxiv.org/abs/2501.17161",
+    "title": "SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training",
+    "date": "2025-01-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 54,
+    "id": "2501.12599",
+    "url": "https://arxiv.org/abs/2501.12599",
+    "title": "Kimi k1.5: Scaling Reinforcement Learning with LLMs",
+    "date": "2025-01-22",
+    "source": "web"
+  },
+  {
+    "n": 55,
+    "id": "2501.19393",
+    "url": "https://arxiv.org/abs/2501.19393",
+    "title": "s1: Simple test-time scaling",
+    "date": "2025-01-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 56,
+    "id": "2509.22193",
+    "url": "https://arxiv.org/abs/2509.22193",
+    "title": "Scale or Reason? A Compute-Equivalent Analysis of Reasoning Distillation",
+    "date": "2025-09-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 57,
+    "id": "2607.13389",
+    "url": "https://arxiv.org/abs/2607.13389",
+    "title": "Where Should RL Post-Training Compute Go? Model Size, Search, Learning, and Feedback",
+    "date": "2026-07-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 58,
+    "id": "2609.31900",
+    "url": "https://arxiv.org/abs/2609.31900",
+    "title": "Understanding the Synergy between SFT, RLVR, and OPD in LLM Post-Training",
+    "date": "2026-09-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 59,
+    "id": "2503.16219",
+    "url": "https://huggingface.co/papers/2503.16219",
+    "title": "Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't",
+    "date": "2025-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 60,
+    "id": "2512.23165",
+    "url": "https://arxiv.org/abs/2512.23165",
+    "title": "Evaluating Parameter Efficient Methods for RLVR",
+    "date": "2025-12-29",
+    "source": "arxiv"
+  },
+  {
+    "n": 61,
+    "id": "2601.04301",
+    "url": "https://arxiv.org/abs/2601.04301",
+    "title": "Quantifying the Effect of Test Set Contamination on Generative Evaluations",
+    "date": "2026-01-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 62,
+    "id": "2409.19256",
+    "url": "https://arxiv.org/abs/2409.19256",
+    "title": "HybridFlow: A Flexible and Efficient RLHF Framework",
+    "date": "2024-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 63,
+    "id": "openrlhf-docs",
+    "url": "https://openrlhf.readthedocs.io/en/latest/index.html",
+    "title": "OpenRLHF documentation",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 64,
+    "id": "huggingface/trl",
+    "url": "https://github.com/huggingface/trl/tree/5bb3ca4b214ad23e1d3035772106c245deb3b3dc",
+    "title": "TRL: Transformer Reinforcement Learning (GRPOTrainer)",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 65,
+    "id": "huggingface/open-r1",
+    "url": "https://github.com/huggingface/open-r1",
+    "title": "Open-R1: a fully open reproduction of DeepSeek-R1",
+    "date": "2025-01-28",
+    "source": "web"
+  },
+  {
+    "n": 66,
+    "id": "hkust-nlp/simpleRL-reason",
+    "url": "https://github.com/hkust-nlp/simpleRL-reason",
+    "title": "SimpleRL-Reason: Reinforcement Learning with Reasoning is Both Effective and Efficient",
+    "date": "unknown",
+    "source": "web"
+  },
+  {
+    "n": 67,
+    "id": "2410.09671",
+    "url": "https://huggingface.co/papers/2410.09671",
+    "title": "OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models",
+    "date": "2024-10-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 68,
+    "id": "2507.14683",
+    "url": "https://huggingface.co/papers/2507.14683",
+    "title": "MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization",
+    "date": "2025-07-19",
+    "source": "hf-search"
+  },
+  {
+    "n": 69,
+    "id": "2508.06471",
+    "url": "https://huggingface.co/papers/2508.06471",
+    "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+    "date": "2025-08-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 70,
+    "id": "2411.15124",
+    "url": "https://arxiv.org/abs/2411.15124",
+    "title": "Tulu 3: Pushing Frontiers in Open Language Model Post-Training",
+    "date": "2024-11-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 71,
+    "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "title": "DeepSeek-R1-Distill-Qwen-7B (model card)",
+    "date": "unknown",
+    "source": "web"
+  }
+]
